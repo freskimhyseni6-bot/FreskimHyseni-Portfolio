@@ -2,8 +2,8 @@ import type {Metadata} from 'next';
 import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
-  title: 'Freskim Hyseni',
-  description: 'Freskim Hyseni',
+  title: 'Freskim Hyseni | Frontend Developer',
+  description: 'Web development and frontend projects',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
